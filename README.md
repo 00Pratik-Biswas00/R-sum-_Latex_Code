@@ -216,7 +216,6 @@
           \resumeItemListStart
             \resumeItem{Led the UI design and front-end development for Alaap, ensuring a visually appealing and user-friendly interface using React JS and Tailwind CSS.}
             \resumeItem{Alaap enables users to post images, videos, likes and comments and includes a real-time chat feature.}
-            
           \resumeItemListEnd 
           \vspace{-13pt}
        \resumeProjectHeading
@@ -232,7 +231,6 @@
           \resumeItemListStart
             \resumeItem{Led the complete redesign of one of India's oldest art and stationery supplies companies, Camel, using React.js and Tailwind CSS, increasing mobile traffic by 50\% a modern and intuitive user interface.}
             \resumeItem{Improved user engagement and satisfaction by 20\% through interactive content transitions using Swiper.js.}
-           
           \resumeItemListEnd 
     \resumeSubHeadingListEnd
 \vspace{-15pt}
@@ -253,7 +251,6 @@
                 \item Java
                 \item Python
                 \item C
-                
             \end{itemize}
         \end{multicols}
         \vspace*{1.0\multicolsep}
@@ -270,7 +267,6 @@
      \textbf{Activities}{: Got 1st place in the Tech-AI Hackathon - 2024, Participated in \href{https://www.linkedin.com/posts/pratik-biswas-511812223_hack4bengal-innovation-creativity-activity-7215002504646774784-PGe9?utm_source=share&utm_medium=member_desktop}{\underline{Hack4bengal3.0 - 2024}}, Participated in \href{https://www.linkedin.com/posts/pratik-biswas-511812223_webdesign-reimaginecontest-sheryianscodingschool-activity-7213908721947541504-CV_g?utm_source=share&utm_medium=member_desktop}{\underline{Sheryians Re-imagine Hackathon - 2024}}} \\
      \textbf{Achievements}{: 4-star in Java, 4-star in C, 3-star in Python on \href{https://www.hackerrank.com/profile/04biswaspratik}{\underline{Hackerrank}}, 2-star in \href{https://www.codechef.com/users/pratik_biswas}{\underline{CodeChef}}, 80+ questions solved in \href{https://leetcode.com/u/Pratik_Biswas/}{\underline{LeetCode}} } \\
      \textbf{Certificates}{: {\href{https://www.linkedin.com/in/pratik-biswas-511812223/details/certifications/1716697727566/single-media-viewer/?type=DOCUMENT&profileId=ACoAADgu8V0Bo4ckfCXTMUUyb4e9naHsCHqwRV4}{\underline{IBM - Getting Started with Enterprise-grade AI}}, \hspace{0.1em} \href{https://www.linkedin.com/in/pratik-biswas-511812223/details/certifications/1716697638391/single-media-viewer/?type=DOCUMENT&profileId=ACoAADgu8V0Bo4ckfCXTMUUyb4e9naHsCHqwRV4}{\underline{IBM - Journey to Cloud: Envisioning Your Solution}}}} \\
-
     }}
  \end{itemize}
  \vspace{-16pt}
