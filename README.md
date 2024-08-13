@@ -1,5 +1,6 @@
 # Resume_Latex_Code
 
+
 \documentclass[letterpaper,11pt]{article}
 
 \usepackage{latexsym}
@@ -110,12 +111,6 @@
 
 
 \begin{document}
-
-%----------HEADING----------
-% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
-%   \textbf{\href{http://souroabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
-%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
-% \end{tabular*}
 
 % -------------------- HEADING--------------------
 \begin{flushright}
